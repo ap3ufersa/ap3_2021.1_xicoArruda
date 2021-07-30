@@ -1,9 +1,9 @@
 # Algoritmos e Programação 3 - 2021.1 - UFERSA Angicos
 
-# Unidade 1
-## (1,0 ponto) U1 - Exercício 1 - De ??/??/2021 até ??/??/2020:
-### [Vídeo explicando o exercício 1](https://drive.google.com/)
+Aqui estão descritos os exercícios para o aluno melhorar a nota na disciplina no semestre 2021.1.
 
+# Unidade 1
+## (1,0 ponto) Exercício 1
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
 2. Baixe o [GitHub Desktop](https://desktop.github.com/).
 3. Configure o GitHub Desktop com a conta criada.
@@ -16,3 +16,9 @@
 9. Crie o primeiro site de acordo com a Aula 1 do dia 23/07/2021.
 10. Coloque o seu código secreto no site como @secreto no javadoc da classe que tem o main. O código secreto foi enviado para seu e-Mail institucional.
 11. Faça o commit do site e sincronize-o com o repositório remoto.
+
+## Ajuda e material de apoio
+### [Vídeo de Git e Github by Xico](https://drive.google.com/)
+### [Vídeo de Git e Github by Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
+### [Vídeo de Git e Github by Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+
