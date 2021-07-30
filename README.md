@@ -4,7 +4,7 @@ Aqui estão descritos os exercícios para melhorar a nota na disciplina no semes
 
 # Unidade 1
 ## (1,0 ponto) Exercício 1
-### [Vídeo Explicando o exercício](FALTA_VIDEO)
+### [Vídeo explicando o exercício](FALTA_VIDEO)
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
 2. Baixe o [GitHub Desktop](https://desktop.github.com).
 3. Configure o GitHub Desktop com a conta criada.
@@ -19,10 +19,10 @@ Aqui estão descritos os exercícios para melhorar a nota na disciplina no semes
 11. Faça o commit do projeto e sincronize-o com o repositório remoto no GitHub.
 
 ## Ajuda e material de apoio
-#### [Vídeo de Git e GitHub by Xico](FALTA_VIDEO)
-#### [Vídeo de Git e GitHub by Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
-#### [Vídeo de Git e GitHub by Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-#### [Material escrito de Git, GitHub e Markdown by Gustavo Guanabara](git_github_gguanabara/)
+#### [Git+GitHub by Xico](FALTA_VIDEO)
+#### [Git+GitHub by Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
+#### [Git+GitHub by Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+#### [Git+GitHub+Markdown by Gustavo Guanabara](git_github_gguanabara/)
 #### [Material didático da disciplina](https://drive.google.com/drive/u/1/folders/1AnLNn-cGqWrpOerD49Tfk9iP9E1YMTkp)
 
 # Unidade 2
