@@ -1,6 +1,6 @@
 # Algoritmos e Programação 3 - 2021.1 - UFERSA Angicos
 
-Aqui estão descritos os exercícios para melhorar a nota na disciplina no semestre 2021.1.
+Aqui estão os exercícios para melhorar a nota de AP3 no semestre 2021.1.
 
 # Unidade 1
 ## (1,0 ponto) Exercício 1
