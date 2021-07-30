@@ -19,7 +19,7 @@ Aqui estão os exercícios para melhorar a nota de AP3 no semestre 2021.1.
 12. Faça o *commit* do projeto localmente e sincronize-o com o seu repositório remoto no GitHub.
 
 ## Ajuda e material de apoio
-##### [Git+GitHub by Xico](FALTA_VIDEO)
+##### [Git+GitHub by Xico](https://drive.google.com/file/d/1FgFKUW5tHh7j6VyArYXvv8L6yf0YEz0N/view?usp=sharing)
 ##### [Git+GitHub by Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
 ##### [Git+GitHub by Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 ##### [Git+GitHub+Markdown by Gustavo Guanabara](git_github_gguanabara/)
