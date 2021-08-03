@@ -26,7 +26,7 @@ Aqui estão os exercícios para melhorar a nota de AP3 no semestre 2021.1.
 ##### [Material didático da disciplina](https://drive.google.com/drive/u/1/folders/1AnLNn-cGqWrpOerD49Tfk9iP9E1YMTkp)
 
 ## (1,0 ponto) Exercício 2
-#### Esses exercícios servem melhorar a familiaridade com Java, relembrando conceitos de laços, vetores, condicionais, entrada padrão.
+### Esses exercícios servem melhorar a familiaridade com Java, relembrando conceitos de laços, vetores, condicionais, entrada padrão.
 #### Faça 3 classes, colocando elas no seu repositório no GitHub. Pode reusar o projeto do exercício 1, mas organize no pacote correto. 
 #### Todas as classes devem estar no *package br.com.ap3.u1.ex2.primeiroNome1900101010;*. Substitua *primeiroNome1900101010* pelo seu primeiro nome e número de matrícula.
 1. Faça uma classe em Java com um método main() que exibe na saída padrão todos os números de 150 até XXXX, onde XXXX são os 4 últimos dígitos da sua matrícula.
