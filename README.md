@@ -5,8 +5,11 @@ Aqui estão os exercícios para melhorar a nota de AP3 no semestre 2021.1.
 # Unidade 1
 ## (1,0 ponto) Exercício 1
 ### [Vídeo explicando o exercício 1](https://drive.google.com/file/d/1-Q25mmSYbjMp7WLjfIhrMA1XgFYqkasI/view?usp=sharing)
+
 1.1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
+
 1.2. Baixe o [GitHub Desktop](https://desktop.github.com).
+
 1.3. Configure o GitHub Desktop com a conta criada.
 1.4. Crie o repositório no formato **ap3_2021.1_primeironomeSegundonome** (ex.: ap3_2021.1_xicoArruda). Decida se ele ficará público ou privado.
 1.5. Use um editor de texto e altere o README.md com informações relevantes. Pode usar o [Notepad++](https://notepad-plus-plus.org/downloads/), [VSCode](https://code.visualstudio.com/) ou outro editor de preferência.
