@@ -3,7 +3,7 @@
 Aqui estão os exercícios para melhorar a nota de AP3 no semestre 2021.1.
 
 # Unidade 1
-## (1,0 ponto) Exercício 1
+## (1,0 ponto) Exercício 1 (entregar até 13/08/2021)
 ### [Vídeo explicando o exercício 1](https://drive.google.com/file/d/1-Q25mmSYbjMp7WLjfIhrMA1XgFYqkasI/view?usp=sharing)
 1. Crie sua conta no GitHub (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo).
 2. Baixe o [GitHub Desktop](https://desktop.github.com).
@@ -25,7 +25,7 @@ Aqui estão os exercícios para melhorar a nota de AP3 no semestre 2021.1.
 ##### [Git+GitHub+Markdown by Gustavo Guanabara](git_github_gguanabara/)
 ##### [Material didático da disciplina](https://drive.google.com/drive/u/1/folders/1AnLNn-cGqWrpOerD49Tfk9iP9E1YMTkp)
 
-## (1,0 ponto) Exercício 2
+## (1,0 ponto) Exercício 2 (entregar até 13/08/2021)
 ### Esses exercícios servem melhorar a familiaridade com Java, relembrando conceitos de laços, vetores, condicionais, entrada padrão.
 #### Faça 3 classes, colocando elas no seu repositório no GitHub. Pode reusar o projeto do exercício 1, mas organize no pacote correto. 
 #### Todas as classes devem estar no *package br.com.ap3.u1.ex2.primeiroNome1900101010;*. Substitua *primeiroNome1900101010* pelo seu primeiro nome e número de matrícula.
