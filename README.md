@@ -14,12 +14,7 @@ Veja [aqui](u1_exercicio2/).
 Veja [aqui](u1_exercicio3/).
 
 #
+
 # Unidade 2
 ## Exercício 1 - 1,0 ponto...
-Veja [aqui]().
-
-## Exercício 2 - 1,0 ponto...
-Veja [aqui]().
-
-## Exercício 3 - 1,0 ponto...
 Veja [aqui]().
