@@ -1,10 +1,5 @@
-# Algoritmos e Programação 3 - 2021.1 - UFERSA Angicos
-
-Aqui estão os exercícios para melhorar a nota de AP3 no semestre 2021.1.
-
 # Unidade 1
-## Exercício 2
-### 1,0 ponto se entregar até 15/08/2021
+## Exercício 2 - 1,0 ponto se entregar até 15/08/2021
 ### Esses exercícios servem melhorar a familiaridade com Java, relembrando conceitos de laços, vetores, condicionais, entrada padrão.
 #### Faça 3 classes, colocando elas no seu repositório no GitHub. Pode reusar o projeto do exercício 1, mas organize no pacote correto. 
 #### Todas as classes devem estar no *package br.com.ap3.u1.ex2.primeiroNome1900101010;*. Substitua *primeiroNome1900101010* pelo seu primeiro nome e número de matrícula.
