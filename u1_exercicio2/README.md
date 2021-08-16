@@ -7,9 +7,9 @@
 
 ---
 
-1. Faça uma classe em Java com um método main() que exibe na saída padrão todos os números de 150 até XXXX, onde XXXX são os 4 últimos dígitos da sua matrícula.
-2. Faça uma classe em Java com um método main() que leia da entrada padrão a idade de 4096 pessoas e exiba quantas pessoas são maiores de idade.
-3. Faça uma classe em Java com um método main() que leia da entrada padrão a velocidade máxima permitida em uma avenida e leia a velocidade com que o motorista estava dirigindo nela. Calcule e mostre a multa que uma pessoa vai receber, sabendo que:
+1. Faça uma classe em Java com um método *main()* que exibe na saída padrão todos os números de 150 até XXXX, onde XXXX são os 4 últimos dígitos da sua matrícula.
+2. Faça uma classe em Java com um método *main()* que leia da entrada padrão a idade de 4096 pessoas e exiba quantas pessoas são maiores de idade.
+3. Faça uma classe em Java com um método *main()* que leia da entrada padrão a velocidade máxima permitida em uma avenida e leia a velocidade com que o motorista estava dirigindo nela. Calcule e mostre a multa que uma pessoa vai receber, sabendo que:
 Multa de R$ 50,00 reais se o motorista ultrapassar em até 10km/h a velocidade permitida.
 Multa de R$ 100,00 reais se o motorista ultrapassar de 11km/h a 30km/h a velocidade permitida.
 Multa de R$ 200,00 reais se estiver acima de 31km/h da velocidade permitida.
