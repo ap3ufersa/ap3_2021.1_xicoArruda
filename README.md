@@ -1,4 +1,4 @@
-# AP3 - 2021.1
+# Algoritmos e Programação 3 - UFERSA Angicos
 Exercícios de AP3 da UFERSA Angicos no semestre 2021.1.
 
 ---
