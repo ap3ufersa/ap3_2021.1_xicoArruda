@@ -13,7 +13,7 @@ Veja [aqui](u1_exercicio2/).
 ## Exercício 3 - 3,0 pontos se entregar até 12/09/2021
 Veja [aqui](u1_exercicio3/).
 
-#
+# 
 
 # Unidade 2
 ## Exercício 1 - 1,0 ponto...
