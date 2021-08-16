@@ -3,7 +3,7 @@
 ### Esses exercícios servem melhorar a familiaridade com Java, relembrando conceitos de laços, vetores, condicionais, entrada padrão.
 #### Coloque as classes no *package br.com.ap3.u1.ex3.primeiroNome1900101010;*.
 #### Substitua *primeiroNome1900101010* pelo seu primeiro nome e número de matrícula.
-#### Faça 3 classes e sincronize com seu repositório no GitHub.
+#### Faça 3 classes Java e sincronize com seu repositório no GitHub.
 
 ---
 
