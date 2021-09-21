@@ -22,6 +22,6 @@ Veja na pasta u2_exercicios no seu repositório da disciplina.
 
 ---
 
-# Unidade 2
+# Unidade 3
 ## Exercícios - 5,0 pontos se entregar até 21/11/2021
 Veja na pasta u3_exercicios no seu repositório da disciplina.
