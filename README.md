@@ -12,16 +12,16 @@ Veja [aqui](u1_exercicio1/).
 Veja [aqui](u1_exercicio2/).
 
 ## Exercício 3 - 3,0 pontos se entregar até 19/09/2021
-Veja [aqui](u1_exercicio3/).
+Veja na pasta u1_exercicio3 no seu repositório da disciplina.
 
 ---
 
 # Unidade 2
-## Exercício 1 - 1,0 ponto...
-Veja *aqui*.
+## Exercícios - 5,0 pontos se entregar até 17/10/2021
+Veja na pasta u2_exercicios no seu repositório da disciplina.
 
 ---
 
-# Unidade 3
-## Exercício 1 - 1,0 ponto...
-Veja *aqui*.
+# Unidade 2
+## Exercícios - 5,0 pontos se entregar até 21/11/2021
+Veja na pasta u3_exercicios no seu repositório da disciplina.
