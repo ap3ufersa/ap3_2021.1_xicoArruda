@@ -10,6 +10,7 @@ Crie uma classe Televisão e uma classe ControleRemoto. O controle remoto é cap
 - O controle de volume permite aumentar ou diminuir a potência do volume de som em uma unidade de cada vez.
 - O controle de canal também permite aumentar e diminuir o número do canal em uma unidade, porém, também possibilita trocar para um canal indicado.
 - Devem existir métodos para consultar o valor do volume de som e o canal atualmente selecionado.
+
 Pense no "é um" *versus* "tem um" visto em aula. Faça uma classe com o método main() que teste as funcionalidades das classes.
 
 ---
@@ -51,5 +52,7 @@ Construa a classe **Agenda** em Java que obedeça à descrição abaixo:
 
 ## Questao 3 (1,0 ponto):
 Identifique as classes e implemente um programa para a seguinte especificação:
+
 Um supermercado vende diferentes tipos de produtos. Cada produto tem um preço e uma quantidade em estoque. Um pedido de um cliente é composto de itens, onde cada item especifica o produto que o cliente deseja e a respectiva quantidade. Esse pedido pode ser pago em dinheiro, cheque ou cartão.
+
 Pense no "é um" versus "tem um" visto em aula. Faça uma classe com o método main() que teste as funcionalidades das classes.
