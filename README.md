@@ -23,5 +23,8 @@ Veja na pasta u2_exercicios no seu repositório da disciplina.
 ---
 
 # Unidade 3
+## Exemplos da Aula 5
+Veja [aqui](u3_exemplosAula5/).
+
 ## Exercícios - 5,0 pontos se entregar até 21/11/2021
 Veja na pasta u3_exercicios no seu repositório da disciplina.

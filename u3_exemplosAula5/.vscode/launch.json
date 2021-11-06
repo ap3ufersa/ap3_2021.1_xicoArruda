@@ -1,0 +1,62 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Execute o arquivo atual",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch A1_TudoMaiusculo",
+            "request": "launch",
+            "mainClass": "br.com.ap3.u3.A1_TudoMaiusculo",
+            "projectName": "unidade3_4f0157a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch A2_TudoMaiusculo_Exception",
+            "request": "launch",
+            "mainClass": "br.com.ap3.u3.A2_TudoMaiusculo_Exception",
+            "projectName": "unidade3_4f0157a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch B1_QuocienteArrayExceptions",
+            "request": "launch",
+            "mainClass": "br.com.ap3.u3.B1_QuocienteArrayExceptions",
+            "projectName": "unidade3_4f0157a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch B2_QuocienteArrayFinnaly",
+            "request": "launch",
+            "mainClass": "br.com.ap3.u3.B2_QuocienteArrayFinnaly",
+            "projectName": "unidade3_4f0157a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch C1_Aquivo_LerArquivoTexto",
+            "request": "launch",
+            "mainClass": "br.com.ap3.u3.C1_Aquivo_LerArquivoTexto",
+            "projectName": "unidade3_4f0157a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch C2_Arquivo_ContarCaracteres",
+            "request": "launch",
+            "mainClass": "br.com.ap3.u3.C2_Arquivo_ContarCaracteres",
+            "projectName": "unidade3_4f0157a2",
+            "args": 
+            [
+                "arquivo.txt",
+                "inexistente.txt"
+            ]
+        }
+    ]
+}
